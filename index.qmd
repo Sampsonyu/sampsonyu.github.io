@@ -1,7 +1,3 @@
 ---
-title: "."
+title: "Hi 👋 My name is Xiangshen (Sampson) Yu"
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

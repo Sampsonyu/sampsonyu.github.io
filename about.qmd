@@ -1,5 +1,40 @@
 ---
-title: "About"
+title: "Xiangshen (Sampson) Yu"
+about:
+  template: jolla
+  image: docs/profile.jpg
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/xiangshen-yu-sampson/
+    - icon: github
+      text: Github
+      href: https://github.com/Sampsonyu
 ---
 
-About this site
+Currently pursuing a Master's degree in Data Science at UBC, I come with a strong foundation as a Data Scientist and Software Engineer backed by a Bachelor's in Electrical & Computer Engineering. My academic and professional journeys have equipped me with the expertise to harness the tools of Statistics, Machine Learning, Deep Learning, and Natural Language Processing to decode complex data challenges. Fluent in Python, SQL, and AWS tools, I've demonstrated my capabilities not only through impactful industry projects but also through a compelling history of academic research and publications. My passion for data-driven insights and my commitment to ongoing learning make me a dedicated problem solver in the evolving landscape of data science.
+
+## Education
+
+University of British Columbia, Master of Science in Data Science | Vancouver, Canada
+
+University of Ottawa, Master of Applied Science in Electrical Engineering and Computer Science | Ottawa, Canada
+
+
+
+## Experience
+
+Pivotree | Data Scientist | 2022 - present
+
+Ford | Software Engineer | 2019 - 2021
+
+NSERC/University of Ottawa | Research Assistant | 2015 - 2018
+
+
+## Licenses & Certifications
+
+Amazon Web Services Cloud Practitioner | Amazon | 2023
+
+Data Engineering Nanodegree | Udacity | 2021
+
+Data Science Specialization | IBM & Cousera | 2021
